@@ -1,0 +1,172 @@
+[
+    {
+        "id" : 1,
+        "quote": "All you need is love. But a little chocolate now and then doesn't hurt.",
+        "author": "Charles M. Schulz"
+    },
+    {
+        "id" : 2,
+        "quote": "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "id" : 3,
+        "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+        "author": "Virginia Woolf, A Room of One's Own"
+    },
+    {
+        "id" : 4,
+        "quote": "Ask not what you can do for your country. Ask what's for lunch",
+        "author": "Orson Welles"
+    },
+    {
+        "id" : 5,
+        "quote": "After a good dinner one can forgive anybody, even one's own relations.",
+        "author": "Oscar Wilde, A Woman of No Importance"
+    },
+    {
+        "id" : 6,
+        "quote": "There are people in the world so hungry, that God cannot appear to them except in the form of bread.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "id" : 7,
+        "quote": "There is no love sincerer than the love of food",
+        "author": "George Bernard Shaw, Man and Superman"
+    },
+    {
+        "id" : 8,
+        "quote": "Popcorn for breakfast! Why not? It's a grain. It's like, like, grits, but with high self-esteem.",
+        "author": "James Patterson, The Angel Experiment"
+    },
+    {
+        "id" : 9,
+        "quote": "I cook with wine, sometimes I even add it to the food.",
+        "author": "W.C. Fields"
+    },
+    {
+        "id" : 10,
+        "quote": "A fit, healthy body—that is the best fashion statement",
+        "author": "Jess C Scott"
+    },
+    {
+        "id" : 11,
+        "quote": "Let food be thy medicine and medicine be thy food.",
+        "author": "Hippocrates"
+    },
+    {
+        "id" : 12,
+        "quote": "Cakes are healthy too, you just eat a small slice.",
+        "author": "Mary Berry"
+    },
+    {
+        "id" : 13,
+        "quote": "Probably one of the most private things in the world is an egg before it is broken.",
+        "author": "M.F.K. Fisher"
+    },
+    {
+        "id" : 14,
+        "quote": "Humor keeps us alive. Humor and food. Don't forget food. You can go a week without laughing.",
+        "author": "Joss Whedon"
+    },
+    {
+        "id" : 15,
+        "quote": "The only time to eat diet food is while you're waiting for the steak to cook.",
+        "author": "Julia Child"
+    },
+    {
+        "id" : 16,
+        "quote": "You are what what you eat eats",
+        "author": "Michael Pollan, In Defense of Food: An Eater's Manifesto"
+    },
+    {
+        "id" : 17,
+        "quote": "I am a better person when I have less on my plate.",
+        "author": "Elizabeth Gilbert, Eat, Pray, Love"
+    },
+    {
+        "id" : 18,
+        "quote": "Am I tough? Am I strong? Am I hard-core? Absolutely. Did I whimper with pathetic delight when I sank my teeth into my hot fried-chicken sandwich? You betcha.",
+        "author": "James Patterson"
+    },
+    {
+        "id" : 19,
+        "quote": "Wait. Why am I thinking about Krispy Kremes? We're supposed to be exercising.",
+        "author": "Meg Cabot, Big Boned"
+    },
+    {
+        "id" : 20,
+        "quote": "Part of the secret of success in life is to eat what you like and let the food fight it out inside.",
+        "author": "Mark Twain"
+    },
+    {
+        "id" : 21,
+        "quote": "The only real stumbling block is fear of failure. In cooking you've got to have a what-the-hell attitude.",
+        "author": "Julia Child"
+    },
+    {
+        "id" : 22,
+        "quote": "Don't wreck a sublime chocolate experience by feeling guilty. Chocolate isn't like premarital sex. It will not make you pregnant. And it always feels good.",
+        "author": "Lora Brody"
+    },
+    {
+        "id" : 23,
+        "quote": "Ice-cream is exquisite. What a pity it isn't illegal.",
+        "author": "Voltaire"
+    },
+    {
+        "id" : 24,
+        "quote": "I am not a glutton - I am an explorer of food",
+        "author": "Erma Bombeck"
+    },
+    {
+        "id" : 25,
+        "quote": "How can you govern a country which has 246 varieties of cheese?",
+        "author": "Charles de Gaulle"
+    },
+    {
+        "id" : 26,
+        "quote": "You can't just eat good food. You've got to talk about it too. And you've got to talk about it to somebody who understands that kind of food.",
+        "author": "Kurt Vonnegut, Jailbird"
+    },
+    {
+        "id" : 27,
+        "quote": "The most remarkable thing about my mother is that for thirty years she served the family nothing but leftovers. The original meal has never been found.",
+        "author": "Calvin Trillin"
+    },
+    {
+        "id" : 28,
+        "quote": "He showed the words “chocolate cake” to a group of Americans and recorded their word associations. “Guilt” was the top response. If that strikes you as unexceptional, consider the response of French eaters to the same prompt: “celebration",
+        "author": "Michael Pollan, In Defense of Food: An Eater's Manifesto"
+    },
+    {
+        "id" : 29,
+        "quote": "Anything is good if it's made of chocolate.",
+        "author": "Jo Brand"
+    },
+    {
+        "id" : 30,
+        "quote": "If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "id" : 31,
+        "quote": "Give a man a fish, and you'll feed him for a day. Teach a man to fish, and he'll buy a funny hat. Talk to a hungry man about fish, and you're a consultant.",
+        "author": "Scott Adams"
+    },
+    {
+        "id" : 32,
+        "quote": "Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education.",
+        "author": "Mark Twain"
+    },
+    {
+        "id" : 33,
+        "quote": "You can tell a lot about a fellow's character by his way of eating jellybeans.",
+        "author": "Ronald Reagan"
+    },
+    {
+        "id" : 34,
+        "quote": "Whoever thought a tiny candy bar should be called fun size was a moron.",
+        "author": "Glenn Beck"
+    }
+]
