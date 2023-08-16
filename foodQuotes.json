@@ -46,7 +46,7 @@
     },
     {
         "id" : 10,
-        "quote": "A fit, healthy body—that is the best fashion statement",
+        "quote": "A fit, healthy body — that is the best fashion statement",
         "author": "Jess C Scott"
     },
     {
@@ -161,12 +161,17 @@
     },
     {
         "id" : 33,
-        "quote": "You can tell a lot about a fellow's character by his way of eating jellybeans.",
-        "author": "Ronald Reagan"
+        "quote": "I don't know what it is about food your mother makes for you, especially when it's something that anyone can make - pancakes, meat loaf, tuna salad - but it carries a certain taste of memory.",
+        "author": "Mitch Albom"
     },
     {
         "id" : 34,
-        "quote": "Whoever thought a tiny candy bar should be called fun size was a moron.",
-        "author": "Glenn Beck"
+        "quote": "If you're afraid of butter, use cream.",
+        "author": "Julia Child"
+    },
+    {
+        "id" : 35,
+        "quote": "No one who cooks, cooks alone. Even at her most solitary, a cook in the kitchen is surrounded by generations of cooks past, the advice and menus of cooks present, the wisdom of cookbook writers.",
+        "author": "Laurie Colwin"
     }
 ]
