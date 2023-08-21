@@ -44,3 +44,11 @@ https://lazy-ox-trunks.cyclic.cloud
 ### Issues
 
 If you encounter any issues, please [report them here](https://github.com/CodingLady22/foodQuotes-api/issues).
+
+### License
+
+This project is licensed under the MIT License.
+
+### Contact
+
+For any questions or inquiries, please email mayecodes22@yahoo.com.
