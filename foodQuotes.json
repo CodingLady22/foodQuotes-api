@@ -173,5 +173,45 @@
         "id" : 35,
         "quote": "No one who cooks, cooks alone. Even at her most solitary, a cook in the kitchen is surrounded by generations of cooks past, the advice and menus of cooks present, the wisdom of cookbook writers.",
         "author": "Laurie Colwin"
+    },
+    {
+        "id" : 36,
+        "quote": "Cooking is at once child's play and adult joy. And cooking done with care is an act of love.",
+        "author": "Craig Claiborne"
+    },
+    {
+        "id" : 37,
+        "quote": "The discovery of a new dish does more for the happiness of the human race than the discovery of a star.",
+        "author": "Jean Anthelme Brillat-Savarin"
+    },
+    {
+        "id" : 38,
+        "quote": "Tis an ill cook that cannot lick his own fingers.",
+        "author": "William Shakespeare, Romeo and Juliet"
+    },
+    {
+        "id" : 39,
+        "quote": "The first time you see something that you have never seen before, you almost always know right away if you should eat it or run away from it.",
+        "author": "Scott Adams"
+    },
+    {
+        "id" : 40,
+        "quote": "Life is half delicious yogurt, half crap, and your job is to keep the plastic spoon in the yogurt.",
+        "author": "Scott Adams"
+    },
+    {
+        "id" : 41,
+        "quote": "Sharing food with another human being is an intimate act that should not be indulged in lightly.",
+        "author": "M.F.K. Fisher"
+    },
+    {
+        "id" : 42,
+        "quote": "He was a bold man that first ate an oyster.",
+        "author": "Jonathan Swift"
+    },
+    {
+        "id" : 43,
+        "quote": "My love is meatloaf flavored. I just wish my meatloaf was also meatloaf flavored.",
+        "author": "Dora J. Arod, Love quotes for the ages. And the ageless sages."
     }
 ]
