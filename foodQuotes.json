@@ -213,5 +213,85 @@
         "id" : 43,
         "quote": "My love is meatloaf flavored. I just wish my meatloaf was also meatloaf flavored.",
         "author": "Dora J. Arod, Love quotes for the ages. And the ageless sages."
+    },
+    {
+        "id" : 44,
+        "quote": "The odds of going to the store for a loaf of bread and coming out with only a loaf of bread are three billion to one.",
+        "author": "Erma Bombeck"
+    },
+    {
+        "id" : 45,
+        "quote": "Tomatoes and oregano make it Italian; wine and tarragon make it French. Sour cream makes it Russian; lemon and cinnamon make it Greek. Soy sauce makes it Chinese; garlic makes it good.",
+        "author": "Alice May Brock"
+    },
+    {
+        "id" : 46,
+        "quote": "A good cook is like a sorceress who dispenses happiness.",
+        "author": "Elsa Schiaparelli"
+    },
+    {
+        "id" : 47,
+        "quote": "It's so beautifully arranged on the plate - you know someone's fingers have been all over it.",
+        "author": "Julia Child"
+    },
+    {
+        "id" : 48,
+        "quote": "Always serve too much hot fudge sauce on hot fudge sundaes. It makes people overjoyed, and puts them in your debt.",
+        "author": "Judith Olney"
+    },
+    {
+        "id" : 49,
+        "quote": "I've long believed that good food, good eating, is all about risk. Whether we're talking about unpasteurized Stilton, raw oysters or working for organized crime 'associates,' food, for me, has always been an adventure",
+        "author": "Anthony Bourdain"
+    },
+    {
+        "id" : 50,
+        "quote": "Parla come magni,' It means, 'Speak the way you eat,' or in my personal translation: 'Say it like you eat it.' It's a reminder - when you're making a big deal out of explaining something, when you're searching for the right words - to keep your language as simple and direct as Roman rood. Don't make a big production out of it. Just lay it on the table.",
+        "author": "Elizabeth Gilbert, Eat, Pray, Love"
+    },
+    {
+        "id" : 51,
+        "quote": "I hate France. It's like the whole country's on a diet.",
+        "author": "Gordon Korman, One False Note"
+    },
+    {
+        "id" : 52,
+        "quote": "New Orleans food is as delicious as the less criminal forms of sin.",
+        "author": "Mark Twain"
+    },
+    {
+        "id" : 53,
+        "quote": "Don't let love interfere with your appetite. It never does with mine.",
+        "author": "Anthony Trollope, Barchester Towers"
+    },
+    {
+        "id" : 54,
+        "quote": "Some hae meat and canna eat, And some wad eat that want it, But we hae meat and we can eat, And sae the Lord be thankit.",
+        "author": "Robert Burns"
+    },
+    {
+        "id" : 55,
+        "quote": "Man is the only animal that can remain on friendly terms with the victims he intends to eat until he eats them.",
+        "author": "Samuel Butler"
+    },
+    {
+        "id" : 56,
+        "quote": "Like a child who saves their favourite food on the plate for last, I try to save all thoughts of you for the end of the day so I can dream with the taste of you on my tongue.",
+        "author": "Kamand Kojouri"
+    },
+    {
+        "id" : 57,
+        "quote": "Knowledge is the food of the soul.",
+        "author": "Plato"
+    },
+    {
+        "id" : 58,
+        "quote": "After a full belly all is poetry.",
+        "author": "Frank McCourt"
+    },
+    {
+        "id" : 59,
+        "quote": "Food is a gift and should be treated reverentially--romanced and ritualized and seasoned with memory.",
+        "author": "Chris Bohjalian, Secrets of Eden"
     }
 ]
