@@ -3,6 +3,7 @@ const app = express();
 import cors from "cors";
 import dotenv from "dotenv";
 import foodQuotes from './foodQuotes.json' assert {type: 'json'};
+const port = process.env.PORT || 4000;
 
 
 app.use(cors()) // lets us run server on our local machine after hosting.
@@ -39,6 +40,6 @@ app.get('/api/next-quote', (req, res) => {
 
 
 //* Listening port
-app.listen (process.env.PORT || PORT, () => {
-    console.log(`The server is running on port ${process.env.PORT}! You better go catch it`);
+app.listen (port, () => {
+    console.log(`The server is running on port ${port}! You better go catch it`);
 })
