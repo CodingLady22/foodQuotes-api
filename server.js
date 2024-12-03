@@ -8,8 +8,6 @@ const port = process.env.PORT || 4000;
 
 app.use(cors()) // lets us run server on our local machine after hosting.
 
-
-//* Access to the port in the .env file
 dotenv.config();
 
 
