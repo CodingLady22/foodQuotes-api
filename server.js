@@ -1,8 +1,9 @@
+import { readFileSync } from 'fs';
 import express from "express";
 const app = express();
 import cors from "cors";
 import dotenv from "dotenv";
-import foodQuotes from './foodQuotes.json' assert {type: 'json'};
+const foodQuotes = JSON.parse(readFileSync('./foodQuotes.json', 'utf-8'));
 const port = process.env.PORT || 4000;
 
 
